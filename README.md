@@ -1,3 +1,7 @@
+# Autores
+- Matias Arenas
+- Saul Muñoz
+
 # Proyecto Carrera de Autos en Hilos
 
 ## Descripción
